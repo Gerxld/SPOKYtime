@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\SpookyTime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|c:\\users\\hp\\source\\repos\\spookytime\\pantallacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:pantallacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\pantallacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:pantallacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\pantallapodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:pantallapodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\pantallalogincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:pantallalogincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\pantallapodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:pantallapodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\entidades\\puntuaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:entidades\\puntuaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\screamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:screamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\pantallaloginadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:pantallaloginadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\pantallaparadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:pantallaparadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\screamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:screamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\dentrocasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:dentrocasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\pantallalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:pantallalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\pantallaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:pantallaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\pantallaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:pantallaadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\pantallalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:pantallalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\reproductormusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:reproductormusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\dentrocasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:dentrocasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\entidades\\caramelos_paradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:entidades\\caramelos_paradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\pantallalogincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:pantallalogincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\pantallaparadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:pantallaparadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\pantallaloginadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:pantallaloginadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\entidades\\caramelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:entidades\\caramelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\entidades\\caramelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:entidades\\caramelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\entidades\\paradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:entidades\\paradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\entidades\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:entidades\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|C:\\Users\\HP\\source\\repos\\SpookyTime\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{00E9A311-5A03-4881-B3B5-70C1BDC4DE92}|SpookyTime.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PantallaAdministrador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaAdministrador.cs",
+              "RelativeDocumentMoniker": "PantallaAdministrador.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaAdministrador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PantallaAdministrador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:31:50.265Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PantallaCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaCliente.cs",
+              "RelativeDocumentMoniker": "PantallaCliente.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PantallaCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:27:20.27Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PantallaLoginAdministrador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaLoginAdministrador.cs",
+              "RelativeDocumentMoniker": "PantallaLoginAdministrador.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaLoginAdministrador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PantallaLoginAdministrador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:44:22.974Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PantallaParadas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaParadas.cs",
+              "RelativeDocumentMoniker": "PantallaParadas.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaParadas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PantallaParadas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:02:15.362Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PantallaLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaLogin.cs",
+              "RelativeDocumentMoniker": "PantallaLogin.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PantallaLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:27:05.953Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DentroCasa.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\DentroCasa.cs",
+              "RelativeDocumentMoniker": "DentroCasa.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\DentroCasa.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DentroCasa.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T02:54:11.724Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PantallaPodio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaPodio.cs",
+              "RelativeDocumentMoniker": "PantallaPodio.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaPodio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PantallaPodio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T03:26:42.291Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PantallaLoginCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaLoginCliente.cs",
+              "RelativeDocumentMoniker": "PantallaLoginCliente.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaLoginCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PantallaLoginCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:06:52.588Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SCREAMER.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\SCREAMER.cs",
+              "RelativeDocumentMoniker": "SCREAMER.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\SCREAMER.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SCREAMER.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:09:31.806Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SCREAMER.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\SCREAMER.cs",
+              "RelativeDocumentMoniker": "SCREAMER.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\SCREAMER.cs",
+              "RelativeToolTip": "SCREAMER.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:28:48.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PantallaLoginCliente.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaLoginCliente.cs",
+              "RelativeDocumentMoniker": "PantallaLoginCliente.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaLoginCliente.cs",
+              "RelativeToolTip": "PantallaLoginCliente.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAhwF0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:07:28.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReproductorMusica.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\ReproductorMusica.cs",
+              "RelativeDocumentMoniker": "ReproductorMusica.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\ReproductorMusica.cs",
+              "RelativeToolTip": "ReproductorMusica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:57:02.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PantallaPodio.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaPodio.cs",
+              "RelativeDocumentMoniker": "PantallaPodio.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaPodio.cs",
+              "RelativeToolTip": "PantallaPodio.cs",
+              "ViewState": "AgIAAAwAAADgAgAAAAAUwCEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:04:53.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DentroCasa.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\DentroCasa.cs",
+              "RelativeDocumentMoniker": "DentroCasa.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\DentroCasa.cs",
+              "RelativeToolTip": "DentroCasa.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAowJQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:35:53.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PantallaLogin.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaLogin.cs",
+              "RelativeDocumentMoniker": "PantallaLogin.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaLogin.cs",
+              "RelativeToolTip": "PantallaLogin.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAASwCYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:38:10.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PantallaAdministrador.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaAdministrador.cs",
+              "RelativeDocumentMoniker": "PantallaAdministrador.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaAdministrador.cs",
+              "RelativeToolTip": "PantallaAdministrador.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAuwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:38:38.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PantallaParadas.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaParadas.cs",
+              "RelativeDocumentMoniker": "PantallaParadas.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaParadas.cs",
+              "RelativeToolTip": "PantallaParadas.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAhwIkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:26:57.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PantallaCliente.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaCliente.cs",
+              "RelativeDocumentMoniker": "PantallaCliente.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaCliente.cs",
+              "RelativeToolTip": "PantallaCliente.cs",
+              "ViewState": "AgIAAAsAAAAAeDMzMzMLwPwAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:52:52.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Caramelo.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\Entidades\\Caramelo.cs",
+              "RelativeDocumentMoniker": "Entidades\\Caramelo.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\Entidades\\Caramelo.cs",
+              "RelativeToolTip": "Entidades\\Caramelo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:04:05.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Caramelos_Paradas.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\Entidades\\Caramelos_Paradas.cs",
+              "RelativeDocumentMoniker": "Entidades\\Caramelos_Paradas.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\Entidades\\Caramelos_Paradas.cs",
+              "RelativeToolTip": "Entidades\\Caramelos_Paradas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:30:03.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PantallaLoginAdministrador.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaLoginAdministrador.cs",
+              "RelativeDocumentMoniker": "PantallaLoginAdministrador.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\PantallaLoginAdministrador.cs",
+              "RelativeToolTip": "PantallaLoginAdministrador.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAASwFgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:56:08.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Puntuaciones.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\Entidades\\Puntuaciones.cs",
+              "RelativeDocumentMoniker": "Entidades\\Puntuaciones.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\Entidades\\Puntuaciones.cs",
+              "RelativeToolTip": "Entidades\\Puntuaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:15:19.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Paradas.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\Entidades\\Paradas.cs",
+              "RelativeDocumentMoniker": "Entidades\\Paradas.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\Entidades\\Paradas.cs",
+              "RelativeToolTip": "Entidades\\Paradas.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:15:00.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Caramelos.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\Entidades\\Caramelos.cs",
+              "RelativeDocumentMoniker": "Entidades\\Caramelos.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\Entidades\\Caramelos.cs",
+              "RelativeToolTip": "Entidades\\Caramelos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:14:48.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\Entidades\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Entidades\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\Entidades\\Usuarios.cs",
+              "RelativeToolTip": "Entidades\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:14:33.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\Datos\\Conexion.cs",
+              "RelativeToolTip": "Datos\\Conexion.cs",
+              "ViewState": "AgIAABkAAAAAOjMzMzMHwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T04:22:06.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SpookyTime\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SpookyTime\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-23T04:10:49.533Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
